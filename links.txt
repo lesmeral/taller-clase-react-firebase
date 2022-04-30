@@ -1,0 +1,4 @@
+[amplify]
+https://main.d2bp5of6a7dx4e.amplifyapp.com/
+[netlify]
+https://626c7e7914958c0740f1822c--celadon-bonbon-f33a46.netlify.app/
